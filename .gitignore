@@ -1,0 +1,9 @@
+# Haskell
+*.o
+*.hi
+*.prof
+
+# Emacs
+*~
+\#*\#
+.\#*
